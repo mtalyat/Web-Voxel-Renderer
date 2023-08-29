@@ -1,0 +1,11 @@
+    Create new rust project:
+
+cargo new project_name
+
+    Create new lib rust project:
+
+cargo new --lib project_name
+
+    Build web assembly package:
+
+wasm-pack build --target web
